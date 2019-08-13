@@ -74,7 +74,6 @@ settings.update(
     license='Apache 2.0',
     url=url,
     classifiers=classifiers,
-    python_requires='==2.7.*',
     keywords='elasticsearch export kibana es bulk csv',
     py_modules=['es2csv', 'es2csv_cli'],
     entry_points={
